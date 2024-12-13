@@ -1,0 +1,115 @@
+[
+  {
+    "ContainingType": "BPKB_BackEnd.Controllers.BPKBController",
+    "Method": "CreateBPKB",
+    "RelativePath": "api/BPKB/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AgreementNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BranchId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BpkbNo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BpkbDateIn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BpkbDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FakturNo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FakturDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PoliceNo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LocationId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CreatedBy",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LastUpdatedBy",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BPKB_BackEnd.Controllers.BPKBController",
+    "Method": "GetLocation",
+    "RelativePath": "api/BPKB/GetLocation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BPKB_BackEnd.Controllers.BPKBController",
+    "Method": "GetLocationByName",
+    "RelativePath": "api/BPKB/GetLocationByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "locationName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BPKB_BackEnd.Controllers.BPKBController",
+    "Method": "Login",
+    "RelativePath": "api/BPKB/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

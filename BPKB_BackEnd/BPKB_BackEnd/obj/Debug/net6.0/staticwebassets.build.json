@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4+fLC6ISIl39hCPIHQE6nrcOjcCitSMBuW+qJnfxr6c=",
+  "Source": "BPKB_BackEnd",
+  "BasePath": "_content/BPKB_BackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

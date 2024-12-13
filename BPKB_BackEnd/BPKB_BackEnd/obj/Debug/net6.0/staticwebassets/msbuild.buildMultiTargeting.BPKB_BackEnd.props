@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BPKB_BackEnd.props" />
+</Project>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPKB_BackEnd", "BPKB_BackEnd\BPKB_BackEnd.csproj", "{3D34EDF0-4C3C-46B5-B65C-215037610CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D34EDF0-4C3C-46B5-B65C-215037610CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D34EDF0-4C3C-46B5-B65C-215037610CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D34EDF0-4C3C-46B5-B65C-215037610CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D34EDF0-4C3C-46B5-B65C-215037610CED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
